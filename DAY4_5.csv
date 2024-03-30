@@ -1,0 +1,6 @@
+id,name, brand,categories,manufacturer,manufacturer_number,reviews_date,reviews_id,reviews_rating,reviews_text
+1,product A,X,Electronics,manufacturer Y,21,1/1/2023,12,3,Terrible product. Broke after first use.
+2,product B,Y,Home & Kitchen,manufacturer X,25,1/5/2023,13,4,Excellent quality. Highly recommended
+3,product C,Z,Electronics,manufacturer Y,45,1/10/2023,14,1,Good value for money. Works as expected
+4,product D,X,Electronics,manufacturer Y,75,1/15/2023,15,5,Average product. Not too impressed.
+5,product E,X,Electronics,manufacturer Y,89,1/20/2023,16,2,Satisfied with the purchase. Does the job.
